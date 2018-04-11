@@ -1,0 +1,16 @@
+D:\Pro2\Društvo\Društvo\bin\Debug\Društvo.exe.config
+D:\Pro2\Društvo\Društvo\bin\Debug\Društvo.exe
+D:\Pro2\Društvo\Društvo\bin\Debug\Društvo.pdb
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.csprojResolveAssemblyReference.cache
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Properties.Resources.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.csproj.GenerateResource.Cache
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.csproj.CoreCompileInputs.cache
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.exe
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.pdb
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.GlavnoOkno.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Vnos.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Resource1.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Pregled.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Zaščita.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Obnova.resources
+D:\Pro2\Društvo\Društvo\obj\Debug\Društvo.Tsikanje.resources
